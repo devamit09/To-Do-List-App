@@ -16,7 +16,7 @@ A simple and responsive Todo List application built using **HTML**, **CSS**, and
 
 ## 🚀 Demo
 
-![Todo List Demo](images/demo.gif)
+![Todo List Demo](images/Screenshot.png)
 
 > You can check the live demo [here](https://devamit09.github.io/To-Do-List-App/) *(Replace with GitHub Pages or live link)*
 
@@ -47,5 +47,5 @@ To run this project locally:
      CSS3 (Flexbox, Gradients, Media Queries)
      JavaScript (DOM Manipulation, localStorage, Drag-and-Drop API)
 
-📸 Screenshots
+📸 Screenshots (images/Screenshot.png)
 
