@@ -18,7 +18,7 @@ A simple and responsive Todo List application built using **HTML**, **CSS**, and
 
 ![Todo List Demo](images/Screenshot.png)
 
-> You can check the live demo [here](https://devamit09.github.io/To-Do-List-App/) *(Replace with GitHub Pages or live link)*
+> You can check the live demo [here](https://devamit09.github.io/To-Do-List-App/) 
 
 ## 📁 Folder Structure
 
